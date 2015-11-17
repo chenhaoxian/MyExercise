@@ -1,5 +1,6 @@
-#Tue Nov 10 16:34:20 CST 2015
+#Tue Nov 17 16:48:47 CST 2015
 eclipse.preferences.version=1
 encoding//src/singleton/SingletonHungry.java=UTF-8
 encoding//src/singleton/SingletonLazy.java=UTF-8
 encoding//src/singleton/SingletonLazyEnhancement.java=UTF-8
+encoding//src/strategy/Main.java=UTF-8
