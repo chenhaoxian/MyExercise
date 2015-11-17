@@ -1,2 +1,2 @@
 # MyExercise
-//When I wrote this, only God and I understood what I was doing . Now, God only knows
+//God said , today is a good day , suitable for programming .
