@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>user login and register</h1>
-<form action="/loginAndRegister/userLogin.do" method="post"> 
+<form action="loginAndRegister/userLogin.do" method="post"> 
 	username:<input type="text" name="username">
 	password:<input type="password" name="password">
 	<input type="submit" value="submit"><input type="reset" value="reset">
