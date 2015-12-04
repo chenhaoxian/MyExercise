@@ -25,10 +25,10 @@
 	</delete>
 	
 	<select id="findById" parameterType="int" resultType="Users">
-		select username from users where id=#{id}
+		select username,password from users where id=#{id}
 	</select>
 	
-	<select id="findAll" parameterType="Users">
+	<select id="findAll" parameterType="Users" resultType="Users">
 		select username,password from users 
 	</select>
 	

@@ -29,8 +29,9 @@
 			<param-name>contextConfigLocation</param-name>
 			<param-value>classpath*:config/spring-mvc.xml</param-value>
 	</init-param>
-	<!-- 启动加载一次 -->  
 	
+	<!-- 启动加载一次 -->  
+	<load-on-startup>1</load-on-startup>
   </servlet>
   
   <servlet-mapping>

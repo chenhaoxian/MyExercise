@@ -8,6 +8,8 @@
 </head>
 <body>
   <h1>get All users information: </h1>
-  <button onclick="users/getAllUsers.do">go</button>
+  <a href="users/getAllUsers.do">go</a>
+  <h1>check user by name:</h1>
+  <a href="users/findUser.do?id=1">go</a>
 </body>
 </html>
