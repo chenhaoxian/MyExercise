@@ -4,12 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+<script type="text/javascript" src="js/bootstrap.js"></script>
 <title>Insert title here</title>
 </head>
 <body>
-  <h1>get All users information: </h1>
+	<h3>Example heading <span class="label label-default">New</span></h3>
+  <h1><span class="label label-default">get All users information: </span></h1>
   <a href="users/getAllUsers.do">go</a>
   <h1>check user by name:</h1>
+  <!-- -->
   <a href="users/findUser.do?id=1">go</a>
 </body>
 </html>
