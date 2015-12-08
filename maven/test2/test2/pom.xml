@@ -167,7 +167,7 @@
             <groupId>org.mybatis</groupId>  
             <artifactId>mybatis-spring</artifactId>  
             <version>1.2.0</version>  
-        </dependency>  
+        </dependency>    
         
         <!-- =================================JDBC===================================== -->
 		<dependency>
